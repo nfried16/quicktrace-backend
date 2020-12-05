@@ -12,5 +12,5 @@ const posSchema = new mongoose.Schema({
   },
 });
 
-const Chart = mongoose.model("Chart", posSchema);
-module.exports = Chart;
+const Positive = mongoose.model("Positive", posSchema);
+module.exports = Positive;
