@@ -1,6 +1,6 @@
-# Peagle Backend
+# QuickTrace Backend
 
-Backend repository for Project Eagle / DAML.
+Backend repository for QuickTrace
 
 ## Enviornment
 
